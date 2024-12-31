@@ -1,4 +1,4 @@
-# Superstore sales dashboard
+# Super Store Sales dashboard
 
 ## Overview
 This project involves creating an interactive Power BI dashboard to analyze sales data for a fictional superstore. The dashboard highlights key performance metrics, trends, and forecasts to help drive data-driven decision-making.
