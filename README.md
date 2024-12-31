@@ -37,9 +37,9 @@ The primary goal of this project is to:
 
 ## Screenshots
 ### Dashboard Overview
-![image](https://github.com/user-attachments/assets/80b8d3d5-a7ef-4dd7-a244-b88d6c275941)
-
+![image](https://github.com/user-attachments/assets/0549e67c-4f8b-4cf1-b1c6-1e147ef5a910)
 
 ### Forecasted trends
-![image](https://github.com/user-attachments/assets/81ff9d54-7eea-45de-aaa8-05bd320632c7)
+![image](https://github.com/user-attachments/assets/b6dd2e3f-ca88-4bcb-9edd-bb8abe717aec)
+
 
