@@ -35,6 +35,8 @@ The primary goal of this project is to:
 3. **Dashboard Creation:**
    - Designed an interactive Power BI dashboard with visuals like bar charts, line charts, and maps.
 
+4. **Kaggle Dataset:** C:\Users\divya chauhan\Desktop\Excel_dataset\SuperStore_Sales_Dataset.csv
+ 
 ## Screenshots
 ### Dashboard Overview
 ![image](https://github.com/user-attachments/assets/0549e67c-4f8b-4cf1-b1c6-1e147ef5a910)
